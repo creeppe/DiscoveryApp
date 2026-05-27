@@ -8,12 +8,12 @@ Una aplicación móvil interactiva y nativa desarrollada en **Android Studio** u
 
 La aplicación cuenta con una navegación fluida, control estricto de estados inmutables y un diseño modular estructurado en las siguientes secciones:
 
-* ** Splash Screen:** Pantalla de bienvenida con temporizador automático que introduce la identidad de la carrera con un estilo tecnológico.
-* ** Home (Infografía Principal):** Panel central con un diseño limpio que describe el perfil de egreso y distribuye el acceso a los módulos interactivos mediante tarjetas y botones dinámicos.
-* ** Mapa de Especialidades:** Cuadrícula interactiva (`LazyVerticalGrid`) que permite al usuario seleccionar distintas líneas de especialización (Ciberseguridad, Ciencia de Datos/IA, Desarrollo Web/Móvil, Cloud) y ver sus detalles dinámicamente en pantalla sin recargar la ventana.
-* ** Campo Laboral:** Lista optimizada (`LazyColumn`) que detalla las áreas y puestos de alta demanda en el mercado de TI para los egresados.
-* ** Test Vocacional:** Módulo interactivo con preguntas de opción múltiple para evaluar la afinidad del aspirante con la carrera de una forma ágil.
-* ** Contacto Directo y Código QR:** Vista que genera un código QR para que los alumnos escaneen y descarguen el Plan de Estudios en formato PDF, acompañado de un Botón de Acción Flotante (FAB) que utiliza un Intent implícito para abrir el gestor de correo electrónico directo hacia Admisiones.
+*  Splash Screen: Pantalla de bienvenida con temporizador automático que introduce la identidad de la carrera con un estilo tecnológico.
+*  Home (Infografía Principal): Panel central con un diseño limpio que describe el perfil de egreso y distribuye el acceso a los módulos interactivos mediante tarjetas y botones dinámicos.
+*  Mapa de Especialidades: Cuadrícula interactiva (`LazyVerticalGrid`) que permite al usuario seleccionar distintas líneas de especialización (Ciberseguridad, Ciencia de Datos/IA, Desarrollo Web/Móvil, Cloud) y ver sus detalles dinámicamente en pantalla sin recargar la ventana.
+* Campo Laboral: Lista optimizada (`LazyColumn`) que detalla las áreas y puestos de alta demanda en el mercado de TI para los egresados.
+* Test Vocacional: Módulo interactivo con preguntas de opción múltiple para evaluar la afinidad del aspirante con la carrera de una forma ágil.
+* Contacto Directo y Código QR: Vista que genera un código QR para que los alumnos escaneen y descarguen el Plan de Estudios en formato PDF, acompañado de un Botón de Acción Flotante (FAB) que utiliza un Intent implícito para abrir el gestor de correo electrónico directo hacia Admisiones.
 
 ---
 
